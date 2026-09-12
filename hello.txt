@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 tu sala panibadia param
 // tu sala harami
 // kakharu choro
 hello hii namaskar
+=======
+sala panibadia
+>>>>>>> 31625ab3868080232c8c88ffba380477f7d40edb
